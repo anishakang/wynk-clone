@@ -11,7 +11,7 @@ Reference Source: https://wynk.in/music
 - Homepage navigation
 - Search bar development
 
-## UI Snapshots
+## Project Snapshots
 ![image](https://user-images.githubusercontent.com/72481558/120993271-00ae0a00-c7a1-11eb-8220-84733eb8694a.png)
 ![image](https://user-images.githubusercontent.com/72481558/120993190-ed9b3a00-c7a0-11eb-954e-c2d34ceaddbf.png)
 
