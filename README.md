@@ -9,7 +9,7 @@ Reference Source: https://wynk.in/music
 ## Change Log
 ###### 7 June 2021
 - Homepage navigation
-- Search bar development
+- Searchbar development
 
 ## Project Snapshots
 ![image](https://user-images.githubusercontent.com/72481558/120993271-00ae0a00-c7a1-11eb-8220-84733eb8694a.png)
