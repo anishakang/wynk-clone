@@ -1,0 +1,362 @@
+.mediaViewInfo {
+	--web-view-name: Home;
+	--web-view-id: Home;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Home;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Home {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(12,15,18,1);
+	overflow: hidden;
+	--web-view-name: Home;
+	--web-view-id: Home;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Rectangle_1 {
+	fill: rgba(33,37,45,1);
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 115px;
+	left: 0px;
+	top: 0px;
+}
+#Rectangle_2 {
+	fill: rgba(232,18,26,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 13px;
+	left: 0px;
+	top: 0px;
+}
+#wynk_icon {
+	position: absolute;
+	width: 283px;
+	height: 94px;
+	left: 92px;
+	top: 23px;
+	overflow: visible;
+}
+#HOME {
+	left: 417px;
+	top: 53px;
+	position: absolute;
+	overflow: visible;
+	width: 90px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,0.82);
+}
+#MY_MUSIC {
+	left: 531px;
+	top: 52px;
+	position: absolute;
+	overflow: visible;
+	width: 128px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,0.82);
+}
+#PODCASTS {
+	left: 683px;
+	top: 52px;
+	position: absolute;
+	overflow: visible;
+	width: 138px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,0.82);
+}
+#DOWNLOAD_APP {
+	left: 845px;
+	top: 52px;
+	position: absolute;
+	overflow: visible;
+	width: 199px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,0.82);
+}
+#Rectangle_3 {
+	fill: rgba(12,15,18,1);
+	stroke: rgba(12,15,18,1);
+	stroke-width: 1px;
+	stroke-linejoin: bevel;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_3 {
+	position: absolute;
+	overflow: visible;
+	width: 462px;
+	height: 51px;
+	left: 1068px;
+	top: 43px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Search.html;
+	cursor: pointer;
+}
+#Search_for_music_you_love {
+	left: 1133px;
+	top: 52px;
+	position: absolute;
+	overflow: visible;
+	width: 408px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(129,140,148,1);
+}
+#Ellipse_1 {
+	position: absolute;
+	width: 75px;
+	height: 86px;
+	left: 1728px;
+	top: 23px;
+	overflow: visible;
+}
+#Layer_2 {
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 1091px;
+	top: 58px;
+	overflow: visible;
+}
+#search {
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_4 {
+	opacity: 0;
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_4 {
+	position: absolute;
+	overflow: visible;
+	width: 24px;
+	height: 24px;
+	left: 0px;
+	top: 0px;
+}
+#Path_1 {
+	fill: rgba(255,255,255,1);
+}
+.Path_1 {
+	overflow: visible;
+	position: absolute;
+	width: 18.006px;
+	height: 18.006px;
+	left: 3px;
+	top: 3px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#lang {
+	position: absolute;
+	width: 75px;
+	height: 91px;
+	left: 1653px;
+	top: 25px;
+	overflow: visible;
+}
+#hannah-domsic-2_gJeve_CBY-unsp {
+	position: absolute;
+	width: 1458px;
+	height: 351px;
+	left: 225px;
+	top: 189px;
+	overflow: visible;
+}
+#c-d-x-PDX_a_82obo-unsplash {
+	position: absolute;
+	width: 1411px;
+	height: 351px;
+	left: 1739px;
+	top: 189px;
+	overflow: visible;
+}
+#Your_Personalised_Mixes {
+	left: 92px;
+	top: 621px;
+	position: absolute;
+	overflow: visible;
+	width: 529px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(255,255,255,0.878);
+}
+#ID1 {
+	position: absolute;
+	width: 268px;
+	height: 268px;
+	left: 92px;
+	top: 736px;
+	overflow: visible;
+}
+#ID2 {
+	position: absolute;
+	width: 268px;
+	height: 268px;
+	left: 445px;
+	top: 736px;
+	overflow: visible;
+}
+#ID4 {
+	position: absolute;
+	width: 268px;
+	height: 268px;
+	left: 798px;
+	top: 736px;
+	overflow: visible;
+}
+#ID3 {
+	position: absolute;
+	width: 268px;
+	height: 268px;
+	left: 1151px;
+	top: 736px;
+	overflow: visible;
+}
+#ID5 {
+	position: absolute;
+	width: 268px;
+	height: 268px;
+	left: 1504px;
+	top: 736px;
+	overflow: visible;
+}
+#nick-nice-ve-R7PCjJDk-unsplash {
+	position: absolute;
+	width: 1411px;
+	height: 351px;
+	left: -1242px;
+	top: 189px;
+	overflow: visible;
+}
+#Monsoon_Mix {
+	left: 1133px;
+	top: 244px;
+	position: absolute;
+	overflow: visible;
+	width: 521px;
+	height: 121px;
+	text-align: left;
+	font-family: Footlight MT;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 90px;
+	color: rgba(255,255,255,1);
+}
+#Group_2 {
+	position: absolute;
+	width: 55.305px;
+	height: 110.609px;
+	left: 36.695px;
+	top: 309.695px;
+	overflow: visible;
+	transition: all 0.3s ease-out;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Home___1.html;
+	cursor: pointer;
+}
+#Path_5 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 10px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Path_5 {
+	overflow: visible;
+	position: absolute;
+	width: 110.609px;
+	height: 55.305px;
+	transform: translate(-36.695px, -309.195px) matrix(1,0,0,1,9.0431,336.8477) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Path_6 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 10px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Path_6 {
+	overflow: visible;
+	position: absolute;
+	width: 110.609px;
+	height: 55.305px;
+	transform: matrix(1,0,0,1,1800.3477,337.3477) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
